@@ -18,12 +18,12 @@ El proceso se desarrolla en **Python**, con un enfoque exploratorio y visual, ab
 ```plaintext
 Heart-Disease-Clustering/
 │
-├── heart_disease_clustering.ipynb # Notebook con el análisis y modelo K-means
-├── data/ # Archivos de datos del proyecto
-│ ├── heart_disease_patients.csv # Dataset principal
-│ └── heart_disease_patients_summary.txt # Descripción de las variables
+├── heart_disease_clustering.ipynb
+├── data/
+│ ├── heart_disease_patients.csv
+│ └── heart_disease_patients_summary.txt
 │
-└── README.md # Documentación del proyecto
+└── README.md
 ```
 
 ---
