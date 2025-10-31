@@ -15,14 +15,16 @@ El proceso se desarrolla en **Python**, con un enfoque exploratorio y visual, ab
 
 ## 📂 Estructura del proyecto
 
+```plaintext
 Heart-Disease-Clustering/
 │
+├── heart_disease_clustering.ipynb # Notebook con el análisis y modelo K-means
 ├── data/ # Archivos de datos del proyecto
 │ ├── heart_disease_patients.csv # Dataset principal
 │ └── heart_disease_patients_summary.txt # Descripción de las variables
 │
-├── heart_disease_clustering.ipynb # Notebook con el análisis y modelo K-means
 └── README.md # Documentación del proyecto
+```
 
 ---
 
@@ -107,7 +109,7 @@ En conjunto, los hallazgos muestran que el algoritmo **K-means** es capaz de seg
 
 ## 🛠️ Tecnologías y librerías utilizadas
 
-- **Python 3**
+- **Python 3.9 o superior**
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn` (KMeans)
 
@@ -115,9 +117,9 @@ En conjunto, los hallazgos muestran que el algoritmo **K-means** es capaz de seg
 
 ## 👥 Autores
 
-Proyecto desarrollado colaborativamente como Microproyecto 2 del curso de *Introducción a la Inteligencia Artificial*.
+Proyecto desarrollado colaborativamente como Microproyecto 2 del curso de **Introducción a la Inteligencia Artificial** de la Universidad Nacional de Colombia - Sede Medellín.
 
-**Equipo 9, Universidad Nacional de Colombia — Sede Medellín**
+**Equipo 9:**
 
 - Jacobo Ochoa Ramírez
 - Juan Manuel Rodríguez Sánchez
