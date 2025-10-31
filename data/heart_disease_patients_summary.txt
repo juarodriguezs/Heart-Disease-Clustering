@@ -1,0 +1,17 @@
+There are many industries where understanding how things group together is beneficial. For example, retailers want to understand the similarities among their customers to direct advertisement campaigns, and botanists classify plants based on their shared similar characteristics. One way to group objects is to use clustering algorithms. We are going to explore the usefulness of unsupervised clustering algorithms to help doctors understand which treatments might work with their patients.
+Content
+
+This is anonymized data of patients who have been diagnosed with heart disease. Patients with similar characteristics might respond to the same treatments, and doctors could benefit from learning about the treatment outcomes of patients like those they are treating. The data comes from the V.A. Medical Center in Long Beach, CA.
+
+id: Index
+age: Age of patient 
+sex: Gender of patient
+cp: chest pain type
+trestbps: Resting blood pressure (in mm Hg on admission to the hospital)
+chol: Serum cholesterol in mg/dl
+fbs: Fasting blood sugar > 120 mg/dl (1 = true; 0 = false)
+restecg: Resting electrocardiographic results
+thalach: Maximum heart rate achieved
+exang: Exercise induced angina (1 = yes; 0 = no)
+oldpeak: ST depression induced by exercise relative to rest
+slope: The slope of the peak exercise ST segment
